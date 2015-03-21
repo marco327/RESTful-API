@@ -1,4 +1,4 @@
-RESTful-API
+RESTful API
 ===========
 
 PHP RESTful API with an example MySQL database. Comes with various HTTP server response mechanisms, basic HTTP 
